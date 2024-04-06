@@ -1,6 +1,6 @@
 {
   "versionCode": 12,
-  "versionName": "0.0.0",
+  "versionName": "1.0.0",
   "desc": "修改阿里云盘等加载字幕BUG（可能存在其他BUG，请提issues）",
   "forcedUpgrade": false
 }
